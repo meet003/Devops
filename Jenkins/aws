@@ -1,0 +1,21 @@
+Scenario based Aws questions asked to me 
+
+Scenario: You are managing a high-traffic web application hosted on AWS. Recently, you've noticed intermittent performance issues during peak hours, resulting in increased latency and occasional downtime. How would you diagnose and address this issue?
+
+Scenario: Your company is planning to migrate its on-premises data center to AWS. As part of the migration strategy, you need to ensure minimal downtime and data loss. How would you plan and execute the migration process?
+
+Scenario: You are responsible for securing an AWS infrastructure hosting sensitive customer data. How would you design and implement a robust security strategy to protect against data breaches and unauthorized access?
+
+Scenario: Your application relies heavily on AWS Lambda functions for processing incoming requests. Recently, you've observed a significant increase in execution times and occasional timeouts. How would you optimize the performance of Lambda functions to mitigate these issues?
+
+Scenario: Your organization is experiencing exponential growth in data volume, leading to increased storage costs on AWS. How would you design a cost-effective storage solution that balances performance, scalability, and cost efficiency?
+
+Scenario: You are tasked with designing a highly available and fault-tolerant architecture for a critical application on AWS. How would you leverage AWS services such as Auto Scaling, Elastic Load Balancing, and Multi-AZ deployments to achieve high availability and resilience?
+
+Scenario: Your development team is adopting a microservices architecture for a new project on AWS. How would you design a scalable and resilient infrastructure to support microservices deployment, communication, and monitoring?
+
+Scenario: Your company operates globally and needs to ensure low-latency access to its web application for users in different geographic regions. How would you architect a distributed application infrastructure using AWS services like Amazon CloudFront, Amazon Route 53, and AWS Global Accelerator to optimize performance and reduce latency?
+
+Scenario: You are tasked with implementing disaster recovery (DR) capabilities for critical applications hosted on AWS. How would you design and configure a DR solution that provides rapid recovery, data integrity, and minimal downtime in the event of a disaster?
+
+Scenario: Your organization is planning to deploy a containerized application on AWS using Amazon ECS. How would you design the architecture and infrastructure to orchestrate and manage containers effectively, ensuring scalability, availability, and performance?
